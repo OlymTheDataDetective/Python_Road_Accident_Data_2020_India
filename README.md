@@ -47,5 +47,4 @@ The dataset is sourced from official government publications on road accident st
 │   └── accident_analysis.ipynb
 ├── visuals/
 │   └── charts_and_graphs.png
-├── README.md
-└── requirements.txt
+└── README.md
